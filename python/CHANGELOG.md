@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enabled session management via `EndSession`  [#1227]
 - Support for temporary or permanent `safety-checks` setting
 - Support for Output Descriptors export [#1363]
+- Support long PIN of up to 50 digits.  [#1167]
 
 ### Changed
 
@@ -507,6 +508,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [#948]: https://github.com/trezor/trezor-firmware/issues/948
 [#1052]: https://github.com/trezor/trezor-firmware/issues/1052
 [#1126]: https://github.com/trezor/trezor-firmware/issues/1126
+[#1167]: https://github.com/trezor/trezor-firmware/issues/1167
 [#1179]: https://github.com/trezor/trezor-firmware/issues/1179
 [#1196]: https://github.com/trezor/trezor-firmware/issues/1196
 [#1210]: https://github.com/trezor/trezor-firmware/issues/1210
